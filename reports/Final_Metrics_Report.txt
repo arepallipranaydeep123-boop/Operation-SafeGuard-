@@ -1,0 +1,11 @@
+Total Transactions: 6362620
+
+Fraud Transactions: 8213
+
+Fraud Percentage: 0.1291
+
+Precision: 0.0072
+Recall: 0.0072
+F1 Score: 0.0072
+FCR: 0.0072
+FPR: 0.0013

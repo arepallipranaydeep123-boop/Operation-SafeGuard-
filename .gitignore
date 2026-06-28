@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model artifacts and notebooks output
+*.pkl
+*.joblib
+*.h5
+
+# Large local data
+*.csv
+*.xlsx
+*.xls
+*.pbix
